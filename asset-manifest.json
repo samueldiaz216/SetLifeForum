@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/SetLifeForum/static/js/main.7b8d1564.chunk.js",
+    "main.js.map": "/SetLifeForum/static/js/main.7b8d1564.chunk.js.map",
+    "runtime-main.js": "/SetLifeForum/static/js/runtime-main.e3c3dbf0.js",
+    "runtime-main.js.map": "/SetLifeForum/static/js/runtime-main.e3c3dbf0.js.map",
+    "static/js/2.a5d22535.chunk.js": "/SetLifeForum/static/js/2.a5d22535.chunk.js",
+    "static/js/2.a5d22535.chunk.js.map": "/SetLifeForum/static/js/2.a5d22535.chunk.js.map",
+    "index.html": "/SetLifeForum/index.html",
+    "precache-manifest.d87495c2bc3cdf0ddc2b663d2ddb90b1.js": "/SetLifeForum/precache-manifest.d87495c2bc3cdf0ddc2b663d2ddb90b1.js",
+    "service-worker.js": "/SetLifeForum/service-worker.js",
+    "static/js/2.a5d22535.chunk.js.LICENSE.txt": "/SetLifeForum/static/js/2.a5d22535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3c3dbf0.js",
+    "static/js/2.a5d22535.chunk.js",
+    "static/js/main.7b8d1564.chunk.js"
+  ]
+}
